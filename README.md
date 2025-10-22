@@ -30,3 +30,30 @@ Created a grade system:
 - 50–59 → Grade C  
 - 40–49 → Grade D  
 - Below 40 → Grade F
+---
+
+## 📊 Skills Demonstrated
+- Data cleaning and transformation in Excel  
+- Use of **cell referencing** and **formula design**  
+- Logical testing with **IF** and **IFS**  
+- Statistical and arithmetic functions  
+- Building automated grading systems  
+
+---
+
+## 📷 Screenshots
+| Practice Questions | Student Scores |
+|--------------------|----------------|
+| ![Practice Questions](screenshots/practice_questions.png) | ![Student Scores](screenshots/student_scores.png) |
+
+---
+
+## 🧠 Tools Used
+- Microsoft Excel  
+- GitHub for version control  
+
+---
+
+## 👤 Author
+**Oghenemega**  
+Aspiring Cybersecurity & Data Analysis Professional  
