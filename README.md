@@ -16,3 +16,11 @@ Using Excel formulas and functions, we performed the following operations:
 
 ### 🔹 Arithmetic Formulas
 - Computed the **average score** using:  
+- Used the **coundictional formatinf** function to round averages to the nearest whole number.
+
+### 🔹 Common Functions
+- `COUNT()` – counted the number of students who took the test.
+- `COUNTA()` – counted how many cells in the "Name" column were filled.
+
+### 🔹 Logical Functions
+- Assigned grades using the **IFS()** function:
