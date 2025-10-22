@@ -24,3 +24,9 @@ Using Excel formulas and functions, we performed the following operations:
 
 ### 🔹 Logical Functions
 - Assigned grades using the **IFS()** function:
+Created a grade system:
+- 70–100 → Grade A  
+- 60–69 → Grade B  
+- 50–59 → Grade C  
+- 40–49 → Grade D  
+- Below 40 → Grade F
